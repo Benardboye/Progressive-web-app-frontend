@@ -1,0 +1,9 @@
+body {
+  font-family: "Karla", sans-serif;
+  font-size: 1.6rem;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
