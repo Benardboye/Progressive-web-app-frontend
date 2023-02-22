@@ -20,7 +20,7 @@ const ForgotPassword = () => {
     <div className="fg-container">
       <div className="fg-title-reg">
         <h2>Forgot Password</h2>
-        <p>Enter the email you use for registration. We'll send you a link to <br /> reset your password</p>
+        <p>Enter the email you use for registration. We'll send you a link to  reset your password</p>
       </div>
       <div>
         <form onSubmit={handleSubmit}>
